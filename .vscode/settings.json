@@ -2,5 +2,5 @@
   "editor.tabSize": 2,
   "workbench.colorTheme": "Andromeda Colorizer",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": false
+  "editor.formatOnSave": true
 }
